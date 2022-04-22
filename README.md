@@ -13,8 +13,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -23,12 +21,12 @@ My Third Front End Mentor Challenge - Order summary card solution
 
 ### Screenshot
 
-![](./screenshot.png)
+![screenshot](./screeshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ysalem-dev-89/Order-summary-HTML-and-CSS)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Order Summery HTML and CSS](https://github.com/ysalem-dev-89/Order-summary-HTML-and-CSS)
+- Live Site URL: [Live Server](https://ysalem-dev-89.github.io/Order-summary-HTML-and-CSS/)
 
 ## My process
 
@@ -45,5 +43,5 @@ I will continue applying rem as measurement because it provide great benefits fo
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Yazeed Salem](https://github.com/ysalem-dev-89)
+- Frontend Mentor - [ysalem-dev-89](https://www.frontendmentor.io/profile/ysalem-dev-89)
